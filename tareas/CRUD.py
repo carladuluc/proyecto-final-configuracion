@@ -20,7 +20,7 @@ def mostrar_productos():
 # Bucle principal
 while True:
     mostrar_menu()
-    opcion = input("Seleccione una opción: ").strip()
+    opcion = input("Seleccione una opción del menú: ").strip()
 
     # Opción 1: Ver productos
     if opcion == "1":
