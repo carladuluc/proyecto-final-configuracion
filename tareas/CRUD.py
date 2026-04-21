@@ -78,7 +78,3 @@ while True:
 
     else:
         print("Opción inválida. Intente nuevamente.")
-        
-
-
-print("Cambio 2 Carla - agregando mejora al sistema")
