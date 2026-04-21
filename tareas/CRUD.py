@@ -78,3 +78,6 @@ while True:
 
     else:
         print("Opción inválida. Intente nuevamente.")
+
+
+print("Cambio realizado por Carla - versión 1")
